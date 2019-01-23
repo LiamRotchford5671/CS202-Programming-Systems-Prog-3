@@ -7,7 +7,7 @@ This program implements Dynamic binding (upcasting, downcasting). The specfic he
 
 Data Structure: 2-3-4 Tree
 
-      Hierarachy 1:
+      Hierarachy 1:   (Food is an abstract base class)
       
          Food           Food           Food
           |               |             |
